@@ -11,4 +11,8 @@ add_executable(arverne2 main.cpp
         src/utils/pressure_model.cc
         src/utils/pressure_model.hh
         src/utils/diameter.cc
+        src/parts/tank.cc
+        src/parts/tank.hh
+        src/parts/part.hh
+        src/parts/part_fuel.hh
 )
