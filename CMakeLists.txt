@@ -15,4 +15,5 @@ add_executable(arverne2 main.cpp
         src/parts/tank.hh
         src/parts/part.hh
         src/parts/part_fuel.hh
+        src/parts/decoupler.hh
 )
